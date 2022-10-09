@@ -1,5 +1,6 @@
 package domain
 
+// Aca se define el adaptador
 type CustomerRepositoryStub struct {
 	customers []Customer
 }
